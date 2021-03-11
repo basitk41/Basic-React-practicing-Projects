@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "../../../iplex_project/real-burger-app"
+    },
+    {
+      "path": "../../../../../../Users/basit/Desktop/js-training-2"
+    },
+    {
+      "path": "../../../burger-app"
+    },
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../../../../../Users/basit/Desktop/javascript-1.0"
+    },
+    {
+      "path": "../../../app-by-webpack"
+    },
+    {
+      "path": "../../../nextjs"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "javascript-1.0"
+  }
+}
